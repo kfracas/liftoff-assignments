@@ -1,18 +1,1 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+# Project OutlineFor this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.## Assignment Description[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)## Submission Instructions### OverviewOur group has been commissioned by Startland, a local non-profit organization in Kansas City, to build a student portal for Elementary Educators pursuing continued education. Students will be participating in a 5 step Design Thinking curriculum and will utilize the portal to complete and submit assignments. ### FeaturesUser Profile - Students will be able to create a user profile with login credentials. They will then use these credentials to login and gain access to their specific course content and progress. Student Homepage - Students will be able to view a summary of the modules and assignments for each step of the course. Announcements about the course that have been posted by an Admin will also be viewable to each student on this page.Admin Homepage - An administrator will be able to create a separate login profile allowing them to post ann=ouncements, update course content, and make updates to student submissions when neccessary. Module Page - The students will be able to select a module and view the course content in the form of video and/or text. Each Module will include instructions for an activity that will be executed outside of the student portal. Students will then have a form submission to upload the completed activity to a student forum. Forum - Student's submitted work will appear in a group forum. Students will be able to view eachother's work, make comments, and give feedback. ### TechnologiesJavascript, MySQL, Express.js, Angular, Node### What I'll Have to LearnHow to embed data from a public APIHow to utilize MySQL using AngularHow to build a collaborative student forumHow to use authentication to all access to user profiles### Project Trackerhttps://trello.com/b/K0vFgOML/team-logan-liftoff-project-board
